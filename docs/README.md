@@ -26,6 +26,3 @@ This project predicts the best crop rotation sequences to minimize pest infestat
 
 If you wanna see the model running quickly, check out the colab file, upload the 2 datasets and see it working.
 https://colab.research.google.com/drive/1-uF4TzxPrP2kiRly64KLM_hRc8MeTQvN?usp=sharing 
-
-Documentation Report 
-https://docs.google.com/document/d/1ld8GNljjnVmVOhBc0Mns9n4cOtDr0bjF_-6y4pRuGDM/edit?usp=sharing 
