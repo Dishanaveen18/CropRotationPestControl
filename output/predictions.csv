@@ -1,0 +1,6 @@
+Crop,Season,Soil Type,Pests in Common,Common Pests,Plantability Score
+Barley,Rabi,Arid and Desert,0,None,100.0
+Sugarcane,Rabi,Arid and Desert,1,Mealybug,87.5
+Cabbage,Rabi,Arid and Desert,1,Cutworm,87.5
+Pulses,Rabi,Laterite,0,None,75.0
+Gram,Zaid,Arid and Desert,0,None,75.0

@@ -1,0 +1,14 @@
+{
+    "model_type": "RandomForestClassifier",
+    "n_estimators": 100,
+    "max_depth": null,
+    "random_state": 42,
+    "features": [
+        "Current Crop",
+        "Next Crop",
+        "Soil Type",
+        "Current Season",
+        "Next Season",
+        "Pest Overlap"
+    ]
+}
