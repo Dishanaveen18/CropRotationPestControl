@@ -24,7 +24,7 @@ This project predicts the best crop rotation sequences to minimize pest infestat
    python src/predict.py
    Outputs will be saved in output/.
 
-If you wanna see the model running quickly, checkout the colab file, upload the 2 dataset and see it working.
+If you wanna see the model running quickly, check out the colab file, upload the 2 datasets and see it working.
 https://colab.research.google.com/drive/1-uF4TzxPrP2kiRly64KLM_hRc8MeTQvN?usp=sharing 
 
 Documentation Report 
